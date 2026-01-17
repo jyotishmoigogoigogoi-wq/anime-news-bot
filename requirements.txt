@@ -1,0 +1,7 @@
+pyTelegramBotAPI
+feedparser
+Flask
+requests
+openai
+gunicorn
+urllib3
